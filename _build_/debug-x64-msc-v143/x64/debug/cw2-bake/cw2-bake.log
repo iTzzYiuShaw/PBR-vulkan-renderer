@@ -1,0 +1,39 @@
+﻿  index_mesh.cpp
+  main.cpp
+D:\Working\MSc Game Engineering\Vulkan\A2\cw2\cw2-bake\index_mesh.cpp(209,32): warning C4244: '=': conversion from '_Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=tgen::RealT
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Working\MSc Game Engineering\Vulkan\A2\cw2\cw2-bake\index_mesh.cpp(210,36): warning C4244: '=': conversion from '_Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=tgen::RealT
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Working\MSc Game Engineering\Vulkan\A2\cw2\cw2-bake\index_mesh.cpp(211,36): warning C4244: '=': conversion from '_Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=tgen::RealT
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Working\MSc Game Engineering\Vulkan\A2\cw2\cw2-bake\index_mesh.cpp(212,36): warning C4244: '=': conversion from '_Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=tgen::RealT
+          ]
+          and
+          [
+              T=float
+          ]
+  cw2-bake.vcxproj -> D:\Working\MSc Game Engineering\Vulkan\A2\cw2\bin\cw2-bake-debug-x64-msc-v143.exe

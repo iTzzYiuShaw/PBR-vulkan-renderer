@@ -1,0 +1,10 @@
+﻿  baked_model.cpp
+  main.cpp
+  MeshLoader.cpp
+  vertex_data.cpp
+D:\Working\MSc Game Engineering\Vulkan\A2\cw2\cw2\MeshLoader.cpp(1,1): warning C4828: The file contains a character starting at offset 0x2777 that is illegal in the current source character set (codepage 65001).
+D:\Working\MSc Game Engineering\Vulkan\A2\cw2\cw2\MeshLoader.cpp(1,1): warning C4828: The file contains a character starting at offset 0x279b that is illegal in the current source character set (codepage 65001).
+D:\Working\MSc Game Engineering\Vulkan\A2\cw2\cw2\MeshLoader.cpp(1,1): warning C4828: The file contains a character starting at offset 0x2821 that is illegal in the current source character set (codepage 65001).
+D:\Working\MSc Game Engineering\Vulkan\A2\cw2\cw2\main.cpp(351,24): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+D:\Working\MSc Game Engineering\Vulkan\A2\cw2\cw2\main.cpp(363,24): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  cw2.vcxproj -> D:\Working\MSc Game Engineering\Vulkan\A2\cw2\bin\cw2-debug-x64-msc-v143.exe

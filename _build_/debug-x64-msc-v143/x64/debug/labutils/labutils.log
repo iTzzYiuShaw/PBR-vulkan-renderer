@@ -1,0 +1,27 @@
+﻿  allocator.cpp
+  context_helpers.cpp
+  error.cpp
+  to_string.cpp
+  vkbuffer.cpp
+  vkimage.cpp
+  vkobject.cpp
+  vkutil.cpp
+  vulkan_context.cpp
+  vulkan_window.cpp
+D:\Working\MSc Game Engineering\Vulkan\A2\cw2\labutils\vkutil.cpp(1,1): warning C4828: The file contains a character starting at offset 0x3e6 that is illegal in the current source character set (codepage 65001).
+D:\Working\MSc Game Engineering\Vulkan\A2\cw2\labutils\vkutil.cpp(1,1): warning C4828: The file contains a character starting at offset 0x3e9 that is illegal in the current source character set (codepage 65001).
+D:\Working\MSc Game Engineering\Vulkan\A2\cw2\labutils\vulkan_window.cpp(1,1): warning C4828: The file contains a character starting at offset 0x46af that is illegal in the current source character set (codepage 65001).
+D:\Working\MSc Game Engineering\Vulkan\A2\cw2\labutils\vulkan_window.cpp(1,1): warning C4828: The file contains a character starting at offset 0x6145 that is illegal in the current source character set (codepage 65001).
+D:\Working\MSc Game Engineering\Vulkan\A2\cw2\labutils\vulkan_window.cpp(1,1): warning C4828: The file contains a character starting at offset 0x6148 that is illegal in the current source character set (codepage 65001).
+D:\Working\MSc Game Engineering\Vulkan\A2\cw2\labutils\vulkan_window.cpp(1,1): warning C4828: The file contains a character starting at offset 0x6264 that is illegal in the current source character set (codepage 65001).
+D:\Working\MSc Game Engineering\Vulkan\A2\cw2\labutils\vulkan_window.cpp(1,1): warning C4828: The file contains a character starting at offset 0x6267 that is illegal in the current source character set (codepage 65001).
+D:\Working\MSc Game Engineering\Vulkan\A2\cw2\labutils\vulkan_window.cpp(1,1): warning C4828: The file contains a character starting at offset 0x626d that is illegal in the current source character set (codepage 65001).
+D:\Working\MSc Game Engineering\Vulkan\A2\cw2\labutils\vulkan_window.cpp(1,1): warning C4828: The file contains a character starting at offset 0x636d that is illegal in the current source character set (codepage 65001).
+D:\Working\MSc Game Engineering\Vulkan\A2\cw2\labutils\vulkan_window.cpp(1,1): warning C4828: The file contains a character starting at offset 0x6370 that is illegal in the current source character set (codepage 65001).
+D:\Working\MSc Game Engineering\Vulkan\A2\cw2\labutils\vkutil.cpp(330,25): warning C4473: 'fprintf' : not enough arguments passed for format string
+  D:\Working\MSc Game Engineering\Vulkan\A2\cw2\labutils\vkutil.cpp(330,25):
+  placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  D:\Working\MSc Game Engineering\Vulkan\A2\cw2\labutils\vkutil.cpp(330,25):
+  the missing variadic argument 1 is required by format string '%d'
+  
+  labutils.vcxproj -> D:\Working\MSc Game Engineering\Vulkan\A2\cw2\lib\labutils-debug-x64-msc-v143.lib

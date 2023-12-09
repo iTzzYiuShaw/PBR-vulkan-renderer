@@ -1,0 +1,6 @@
+^D:\WORKING\MSC GAME ENGINEERING\VULKAN\A2\CW2\CW2\SHADERS\DEFAULT.FRAG
+IF NOT EXIST "D:\Working\MSc Game Engineering\Vulkan\A2\cw2\\assets\cw2\shaders" (mkdir "D:\Working\MSc Game Engineering\Vulkan\A2\cw2\\assets\cw2\shaders")
+"D:\Working\MSc Game Engineering\Vulkan\A2\cw2\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "D:\Working\MSc Game Engineering\Vulkan\A2\cw2\/assets/cw2/shaders/default.frag.spv" "default.frag"
+^D:\WORKING\MSC GAME ENGINEERING\VULKAN\A2\CW2\CW2\SHADERS\DEFAULT.VERT
+IF NOT EXIST "D:\Working\MSc Game Engineering\Vulkan\A2\cw2\\assets\cw2\shaders" (mkdir "D:\Working\MSc Game Engineering\Vulkan\A2\cw2\\assets\cw2\shaders")
+"D:\Working\MSc Game Engineering\Vulkan\A2\cw2\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "D:\Working\MSc Game Engineering\Vulkan\A2\cw2\/assets/cw2/shaders/default.vert.spv" "default.vert"
